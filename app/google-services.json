@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "743625442941",
+    "firebase_url": "https://benimkutuphanem-8fa8c.firebaseio.com",
+    "project_id": "benimkutuphanem-8fa8c",
+    "storage_bucket": "benimkutuphanem-8fa8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743625442941:android:b4741f6471bf59a9",
+        "android_client_info": {
+          "package_name": "burakcalisgan.com.benimktphanem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743625442941-elbv1a12d071abretuv4p84derkaittu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87GVHwMqIHJ3QwIHDSQ1m-BPJ8liEvSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
